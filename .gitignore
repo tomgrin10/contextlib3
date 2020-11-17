@@ -1,0 +1,10 @@
+# JetBrains
+.idea/
+
+# Python
+*.pyc
+*.egg-info/
+.venv/
+dist/
+
+*.gen
