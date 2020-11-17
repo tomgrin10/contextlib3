@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "contextlib3"
-version = "0.1"
+version = "3.10.0"
 description = "Backport of Python 3.10 standard library’s contextlib module to other python 3 versions"
 authors = ["Tom Gringauz <tomgrin10@gmail.com>"]
 license = "MIT"
